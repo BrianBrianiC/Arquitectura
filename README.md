@@ -8,12 +8,70 @@ Este repositorio fue creado para acompañar las clases particulares de **Arquite
 
 ## 📂 Estructura del repositorio
 
-- `clases/` → Material trabajado clase a clase (apuntes, explicaciones, ejercicios).
-- `teoria/` → Resúmenes, mapas conceptuales, cuadros comparativos, etc.
-- `practica/` → Ejercicios prácticos, modelos de parciales/resueltos, etc.
-- `recursos/` → Enlaces, papers, libros o cualquier material extra que ayude a entender mejor.
+## 📘 Ejercicios de Parciales para Practicar
+
+Este repositorio incluye una colección de ejercicios utilizados en parciales anteriores (y otros adicionales) para practicar los temas de la materia **Arquitectura de las Computadoras**. Están organizados según el parcial donde suelen tomarse.
+
+### 📌 Índice por Parcial
+
+| [🔢 Parcial 1](#🔢-parcial-1) | [📐 Parcial 2](#📐-parcial-2) | [📊 Parcial 3](#📊-parcial-3) |
+|------------------------------|-------------------------------|-------------------------------|
+| Número Feliz ([solución](#)) | Triangular 1 | Borrado en Lista Enlazada 1 |
+| Números Cuadrificados         | Triangular 3 | Inserción en Lista Enlazada |
+| Números Ampliables            | Triangular 4 | Ordena Dos |
+| Números Narcisistas           | Triangular 5 | — |
+| Sistema de Tarifas de Envío   | Cuadrados Impares | — |
+| Índice de Masa Corporal ([solución](#)) | Cuaternas Diagonal | — |
+| FiltroNacci                   | El castigo de Aveam | — |
+| MCDs Unitarios                | — | — |
+| Tiempo Veloz                 | — | — |
+| Productoria Vocales          | — | — |
+| Beecrowd 1094                | — | — |
+| Beecrowd 3454                | — | — |
+| Beecrowd 2304                | — | — |
 
 ---
+
+### 🔢 Parcial 1
+
+- [ ] Número Feliz  
+- [ ] Números Cuadrificados  
+- [ ] Números Ampliables  
+- [ ] Números Narcisistas  
+- [ ] Sistema de Tarifas de Envío  
+- [ ] Índice de Masa Corporal  
+- [ ] FiltroNacci  
+- [ ] MCDs Unitarios  
+- [ ] Tiempo Veloz  
+- [ ] Productoria Vocales  
+- [ ] Beecrowd 1094  
+- [ ] Beecrowd 3454  
+- [ ] Beecrowd 2304  
+
+---
+
+### 📐 Parcial 2
+
+- [ ] Triangular 1  
+- [ ] Triangular 3  
+- [ ] Triangular 4  
+- [ ] Triangular 5  
+- [ ] Cuadrados Impares  
+- [ ] Cuaternas Diagonal  
+- [ ] El castigo de Aveam  
+
+---
+
+### 📊 Parcial 3
+
+- [ ] Borrado en Lista Enlazada 1  
+- [ ] Inserción en Lista Enlazada  
+- [ ] Ordena Dos  
+
+---
+
+> ✅ A medida que vayamos resolviendo los ejercicios, se irán marcando como completados y se agregarán los enlaces a sus soluciones.
+
 
 ## 👨‍🏫 Sobre las clases
 
